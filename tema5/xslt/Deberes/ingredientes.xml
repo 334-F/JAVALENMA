@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ingredientes.xsl" type="text/xsl"?>
+<receta nombre="Cocido Madrileño">
+  
+        <ingrediente nombre="Garbanzos"/>
+        <ingrediente nombre="Carne de morcillo"/>
+        <ingrediente nombre="Hueso de jamón"/>
+        <ingrediente nombre="Tocino"/>
+        <ingrediente nombre="Chorizo"/>
+        <ingrediente nombre="Morcilla"/>
+        <ingrediente nombre="Repollo"/>
+        <ingrediente nombre="Zanahoria"/>
+        <ingrediente nombre="Patata"/>
+        <ingrediente nombre="Fideos"/>
+        <ingrediente nombre="Agua"/>
+        <ingrediente nombre="Sal"/>
+</receta>
