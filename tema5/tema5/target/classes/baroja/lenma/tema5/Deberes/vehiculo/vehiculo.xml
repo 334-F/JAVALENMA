@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="vehiculo.xsl" type="text/xsl"?>
+<vehiculos>
+    <vehiculo>
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <precio>22000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>Honda</marca>
+        <modelo>Civic</modelo>
+        <precio>25000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>Ford</marca>
+        <modelo>Focus</modelo>
+        <precio>21000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>Chevrolet</marca>
+        <modelo>Malibu</modelo>
+        <precio>27000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>BMW</marca>
+        <modelo>Serie 3</modelo>
+        <precio>40000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>Mercedes-Benz</marca>
+        <modelo>Clase C</modelo>
+        <precio>45000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>Audi</marca>
+        <modelo>A4</modelo>
+        <precio>43000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>Volkswagen</marca>
+        <modelo>Passat</modelo>
+        <precio>28000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>Nissan</marca>
+        <modelo>Altima</modelo>
+        <precio>24000</precio>
+    </vehiculo>
+    <vehiculo>
+        <marca>Hyundai</marca>
+        <modelo>Elantra</modelo>
+        <precio>20000</precio>
+    </vehiculo>
+</vehiculos>

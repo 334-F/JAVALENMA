@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="pract1.xsl" type="text/xsl"?>
+<peliculas>
+<pelicula>
+<titulo>Ironman</titulo>
+<argumento>eeee</argumento>
+</pelicula>
+
+<pelicula>
+<titulo>iron2</titulo   >
+<argumento>rrr</argumento>
+</pelicula>
+
+<pelicula>
+<titulo>ironman3</titulo>
+<argumento>gggg</argumento>
+</pelicula>
+
+
+
+</peliculas>

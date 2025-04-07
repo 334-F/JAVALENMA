@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cv.xsl" type="text/xsl"?>
+<cv>
+    <nombre>Felipe Xu</nombre>
+    <telefono>612345678</telefono>
+    <email>felipe.xu@email.com</email>
+
+    <formacion>
+        <titulo>Desarrollo de Aplicaciones Web</titulo>
+        <centro>IES Pio Baroja</centro>
+        <inicio>2023</inicio>
+        <fin>2025</fin>
+    </formacion>
+
+    <experiencia>
+        <puesto>Camarero</puesto>
+        <empresa>Restaurante El Buen Sabor</empresa>
+        <inicio>2021</inicio>
+        <fin>2022</fin>
+    </experiencia>
+</cv>

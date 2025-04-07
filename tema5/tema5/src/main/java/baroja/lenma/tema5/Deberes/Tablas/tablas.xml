@@ -1,0 +1,19 @@
+
+<ciudades>
+    <ciudad>
+        <nombre>Madrid</nombre>
+        <habitantes>3500000</habitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>Málaga</nombre>
+        <habitantes>800000</habitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>Toledo</nombre>
+        <habitantes>50000</habitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>Alicante</nombre>
+        <habitantes>700000</habitantes>
+    </ciudad>
+</ciudades>
